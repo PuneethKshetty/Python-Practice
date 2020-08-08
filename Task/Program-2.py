@@ -6,6 +6,6 @@ for a in num:
         count+=1
     else:
         count1+=1
-print(count)
-print(count1)
+print("Count of even number is" ,count)
+print("Count of odd number is" ,count1)
         
